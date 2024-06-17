@@ -18,6 +18,6 @@
 - JavaScript
 
 ## Админ-панель
-    https:/istominiko.ru/admin
+- [istominiko.ru/admin](https://istominiko.ru/admin)
 
 
